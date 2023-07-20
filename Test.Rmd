@@ -10,6 +10,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Question-- What if I don't use RMD???
+
+
 This document is for learning how to save my files to Git Hub, and track changes.
 It documents my first attempts at using Git and GitHub to version control on an
 RStudio project. I will be modifying this report, staging and committing changes
